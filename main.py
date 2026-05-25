@@ -1,3 +1,4 @@
+!pip install qiskit qiskit_aer
 %matplotlib inline 
 
 from qiskit import QuantumCircuit, transpile
